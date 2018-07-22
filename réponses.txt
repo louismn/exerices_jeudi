@@ -1,0 +1,19 @@
+Exo_02 :
+La commande "puts" ajoute une ligne à chaque boucle tandis que print n'en rajoute pas.
+
+Exo_03 :
+la ligne sur laquelle se trouve # n'est pas prise en compte par le terminal.
+
+Exo_04 :
+Le texte ne s'affiche pas à cause de l'oublie d'un guillemet. 
+
+Exo_05 :
+"{#}" Permet d'insérer une opération dans une variable linéaire
+
+Exo_06 :
+la variable "number_of_minutes_in_an_hour" n'est pas définit.
+
+Exo_07 :
+a) Cette commande récupère le texte écrit par l'internaute et l'insère dans une variable. 
+
+b) Ces 3 programmes produisent le même résultat, leurs différences sont qu'ils le font de manières plus ou moins compréhensibles pour l'utilisateur. 
